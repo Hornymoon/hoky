@@ -1,0 +1,79 @@
+span.googleCaptcha-element-error {
+	color:red;
+	font-weight:bold
+}
+
+.estate-slider-label {
+    /*bottom: 15px;*/
+    display: block;
+    float: left;
+    width: 100%;
+    position: relative;
+    /*left: 10%;*/
+}
+
+
+.right-container {
+    padding-bottom: 15px;
+}
+
+.right-page-form {
+    padding: .9375em .9375em;
+}
+
+.right-page-form .card {
+    color: black;
+    margin-bottom: 0;
+}
+
+.right-page-form .card-header {
+    margin-bottom: 1em;
+}
+
+.right-page-form .card-title {
+    text-transform: none;
+}
+
+.right-page-form .card-body {
+    margin-bottom: 1.5em;
+}
+
+.right-page-form .card-body p {
+    font-size: .875em;
+}
+
+.right-page-form .card-footer {
+    padding-bottom: 0;
+}
+
+.right-page-form .card-footer button {
+    margin-right: 1.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-transform: none;
+}
+
+.requests-container thead, #statusHistoryTable thead {
+    background-color: rgba(139,141,9,.15);
+    font-size: .875rem;
+}
+
+.requests-container tbody {
+    font-size: .875rem;
+}
+
+.td-status {
+    display: -webkit-box;
+}
+
+.btn-show-status {
+    padding-right: .2em;
+}
+
+#statusHistoryTable {
+    font-size: .875em;
+}
+.element-error {
+	color:red;
+	font-size:11px;
+}
